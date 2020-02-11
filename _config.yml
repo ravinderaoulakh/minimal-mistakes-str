@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ravinder Singh"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Senior Consultant (Data and Artificial Intelligence)"
+  bio    : "Consultant, Architect, Data and Artificial Intelligence"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
